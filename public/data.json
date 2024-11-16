@@ -1,0 +1,171 @@
+[
+  
+  {
+    "product_id": 1,
+    "product_title": "Ultrabook Laptop",
+    "product_image": "https://i.ibb.co.com/XtXDxft/laptop-with-white-screen-isolated-white-wall.jpg",
+    "category": "laptops",
+    "price": 1099.99,
+    "description": "Lightweight ultrabook laptop with a long battery life and sleek design.",
+    "Specification": [
+       "Intel Core i5" ,
+       "8 GB RAM" ,
+       "256 GB SSD" ,
+       "13.3 inches Display" ,
+      "10 hours Battery Backup" 
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 2,
+    "product_title": "Business Laptop",
+    "product_image": "https://i.ibb.co.com/X8VVRrb/laptop-stone-surface-sea-background.jpg",
+    "category": "laptops",
+    "price": 899.99,
+    "description": "Reliable business laptop with robust security features and fast performance.",
+    "Specification": [
+      "Intel Core i5" ,
+       "8 GB RAM" ,
+       "512 GB SSD",
+      "14 inches Display" 
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": 3,
+    "product_title": "Student Laptop",
+    "product_image": "https://i.ibb.co.com/CnKVwVt/images-1.jpg",
+    "category": "laptops",
+    "price": 599.99,
+    "description": "Affordable laptop perfect for students, with essential performance and battery life.",
+    "Specification": [
+       "AMD Ryzen 5" ,
+      "8 GB RAM" ,
+       "256 GB SSD" ,
+       "14 inches Display" 
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 4,
+    "product_title": "Budget Smartphone",
+    "product_image": "https://i.ibb.co.com/6ZNdKXV/images.jpg",
+    "category": "phones",
+    "price": 199.99,
+    "description": "Affordable smartphone with reliable performance and essential features.",
+    "Specification": [
+       "5.5 inches Display" ,
+       "12 MP Single Camera" ,
+       "3000 mAh Battery" ,
+       "3 GB RAM" ,
+       "32 GB Storage"  
+    ],
+    "availability": true,
+    "rating": 4.1
+  },
+  {
+    "product_id": 5,
+    "product_title": "Sports Smart Watch",
+    "product_image": "https://i.ibb.co.com/Fnn2K7q/Mibro-C3-Calling-Smart-Watch-2-ATM-with-Dual-Straps-Navy-Blue-1.jpg",
+    "category": "smart watches",
+    "price": 179.99,
+    "description": "Rugged smartwatch for sports enthusiasts with GPS, fitness tracking, and water resistance.",
+    "Specification": [
+       "1.4 inches Screen" ,
+      "48 hours Battery Life" ,
+       "100 meters Water Resistance" ,
+      "iOS and Android Compatibility" 
+    ],
+    "availability": true,
+    "rating": 4.2
+  },
+  
+  {
+    "product_id": 6,
+    "product_title": "Chromebook",
+    "product_image": "https://i.ibb.co.com/QQWL3YY/download.jpg",
+    "category": "laptops",
+    "price": 399.99,
+    "description": "Compact and affordable Chromebook ideal for browsing and basic tasks.",
+    "Specification": [
+       "Intel Celeron" ,
+       "4 GB RAM" ,
+       "64 GB eMMC SSD" ,
+       "11.6 inches Display" 
+    ],
+    "availability": true,
+    "rating": 4.0
+  },
+  {
+    "product_id": 7,
+    "product_title": "Smartphone XYZ Pro",
+    "product_image": "https://i.ibb.co.com/9cYks8x/download-1.jpg",
+    "category": "phones",
+    "price": 899.99,
+    "description": "Flagship smartphone with advanced camera features and long-lasting battery life.",
+    "Specification": [
+       "6.5 inches Display" ,
+       "108 MP Triple Camera" ,
+       "4500 mAh Massive Battery",
+       "8 GB RAM" ,
+       "256 GB Storage" 
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  
+  {
+    "product_id": 8,
+    "product_title": "Smart Watch Series 5",
+    "product_image": "https://i.ibb.co.com/h1SR7kY/download-2.jpg",
+    "category": "smart watches",
+    "price": 299.99,
+    "description": "Stylish smartwatch with fitness tracking, heart rate monitor, and GPS.",
+    "Specification": [
+       "1.75 inches Display" ,
+       "24 hours Battery Life" ,
+       "50 meters Water Resistance" ,
+       "iOS and Android Compatibility" 
+    ],
+    "availability": false,
+    "rating": 4.4
+  },
+  {
+    "product_id": 9,
+    "product_title": "Convertible Laptop",
+    "product_image": "https://i.ibb.co.com/N9gv782/still-life-books-versus-technology.jpg",
+    "category": "laptops",
+    "price": 749.99,
+    "description": "Versatile 2-in-1 laptop with touchscreen functionality and stylus support.",
+    "Specification": [
+     "Intel Core i3" ,
+       "4 GB RAM" ,
+       "128 GB SSD" ,
+       "13.3 inches Display" 
+       
+    ],
+    "availability": false,
+    "rating": 4.2
+  },
+  
+  {
+    "product_id": 10,
+    "product_title": "Gaming Laptop",
+    "product_image": "https://i.ibb.co.com/x7tZPFB/open-laptop.jpg",
+    "category": "laptops",
+    "price": 1299.99,
+    "description": "High-performance gaming laptop with powerful graphics and fast processor.",
+    "Specification": [
+      "Intel Core i7" ,
+       "16 GB RAM" ,
+       "512 GB SSD" ,
+       "NVIDIA GeForce GTX 1660 Graphics" ,
+       "15.6 inches Display" 
+    ],
+    "availability": true,
+    "rating": 4.8
+  }
+]
