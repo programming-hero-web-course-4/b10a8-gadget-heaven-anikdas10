@@ -3,8 +3,9 @@ import { Link } from "react-router-dom";
 
 const Gadget = ({gadget,categori}) => {
     const {product_title,product_image,price,category,product_id}=gadget;
+    
     return (
-        <div className=" bg-white p-4 rounded-lg border">
+        <div className=" bg-white p-4 rounded-lg ">
            <div className=" mx-auto">
             <img className="rounded-md w-full" src={product_image} alt="" />
            </div>

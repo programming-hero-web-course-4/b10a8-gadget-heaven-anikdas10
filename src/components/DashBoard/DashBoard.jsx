@@ -6,6 +6,7 @@ import { HiAdjustmentsVertical } from "react-icons/hi2";
 import Cart from "../Cart/Cart";
 import WishList from "../WishList/WishList";
 import image from '../../assets/Group.png'
+import { Helmet } from "react-helmet";
 
 const DashBoard = () => {
     const [gadgets,setGadgets]=useState([]);
@@ -91,6 +92,9 @@ const DashBoard = () => {
 
     return (
         <div>
+          <Helmet>
+            <title>Dashboard | Gadget Haven</title>
+          </Helmet>
            <div className="bg-purple  rounded-b-md py-8">
             <div className="container ">
                 <div className="text-white space-y-3">

@@ -12,6 +12,7 @@ import DashBoard from './components/DashBoard/DashBoard.jsx';
 import Gadgets from './components/Gadgets/Gadgets.jsx';
 import GadgetDetails from './components/GadgetDetails/GadgetDetails.jsx';
 import Statistics from './components/Statistics/Statistics.jsx';
+import UpComming from './components/UpComming/UpComming.jsx';
 const router = createBrowserRouter([
   {
     path: "/",
@@ -46,6 +47,10 @@ const router = createBrowserRouter([
       {
         path:'/statistics',
         element:<Statistics></Statistics>
+      },
+      {
+        path:'/upcoming',
+        element:<UpComming></UpComming>
       }
     ]
   },

@@ -2,7 +2,6 @@ import { Outlet } from "react-router-dom";
 import Banner from "../Banner/Banner";
 import CAtegories from "../Categories/CAtegories";
 
-
 const Home = () => {
     return (
         <div className="">

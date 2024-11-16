@@ -19,6 +19,7 @@ const Gadgets = () => {
     },[category])
     return (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            <h3 className={gadgets.length ===0?'Flex col-span-3 text-center font-bold text-xl md:text-2xl lg:text-3xl':'hidden'}>No Data Available</h3>
            {
             gadgets.map(gadget=><Gadget key={gadget.product_id} gadget={gadget} categori={category}></Gadget>)
            }
